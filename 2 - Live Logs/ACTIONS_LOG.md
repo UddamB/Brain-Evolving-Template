@@ -6,6 +6,14 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-05-22 | Prepare for Tim Bojko follow-up by researching AI solutions for HubSpot automation (email sequences, splash pages) | [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]] |
+| 2026-05-22 | Investigate potential Canadian company referrals for Fathom Leadership (Tim Bojko) | [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]] |
+| 2026-05-22 | Review Rashmi Rustagi's three websites before strategy session (DesignByPreetiMovie.com, RashmiRustagi.com, RashmisRecipes.com) | [[2026-05-22 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-05-20 | Reschedule meeting with Freda Schellingerhoudt to Thursday May 21 at 10:00 AM EST | [[2026-05-20 - Freda Schell and Uddam Bhathal]] |
+| 2026-05-19 | Schedule follow-up meeting with Mike Lippner on Tuesday May 26 at 1:00 PM to map workflows and explore AI automation | [[2026-05-19 - Mike Lippner and Uddam Bhathal]] |
+| 2026-05-19 | Implement conversational framing for revenue ("Has it gone up or down?") and software questions on cold calls | [[2026-05-19 - Impromptu Google Meet Meeting]] |
+| 2026-05-19 | Test playful pattern interrupts and unexpected openers to build rapport with gatekeepers | [[2026-05-19 - Impromptu Google Meet Meeting]] |
+| 2026-05-19 | Attend Pipe Gen Wednesdays (PGW) | [[2026-05-19 - Impromptu Google Meet Meeting]] |
 | 2026-05-18 | Sign up for GrantStream.ai referral program (20–30% commission) | [[2026-05-18 - Uddam Bhathal and Richard Giraldez]] |
 | 2026-05-18 | Schedule follow-up call with Richard in ~1 week to map out AI automation solutions | [[2026-05-18 - Uddam Bhathal and Richard Giraldez]] |
 | 2026-05-16 | Email Devin a fixed-price proposal for Facebook outreach automation | [[2026-05-16 - Devin Crane and Uddam Bhathal]] |
