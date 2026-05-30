@@ -6,6 +6,11 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-05-29 | Prepare for audit with Lorenzo Tolbert by reviewing Goodnight Law practice and identifying automation opportunities | [[2026-05-29 - Lorenzo Tolbert and Uddam Bhathal]] |
+| 2026-05-26 | Draft 4 potential AI solution workflows for Rashmi Rustagi's film marketing operations | [[2026-05-26 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-05-26 | Schedule a demo call with Rashmi Rustagi to present the proposed AI solutions | [[2026-05-26 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-05-26 | Send Rashmi Rustagi the list of monthly marketing goals discussed in the strategy session | [[2026-05-26 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-05-25 | Attend Melaleuca Zoom presentation on Saturday May 30 at 2:00 PM ET (hosted by Vivienne Ste) | [[2026-05-25 - Vivienne Ste and Uddam Bhathal]] |
 | 2026-05-22 | Prepare for Tim Bojko follow-up by researching AI solutions for HubSpot automation (email sequences, splash pages) | [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]] |
 | 2026-05-22 | Investigate potential Canadian company referrals for Fathom Leadership (Tim Bojko) | [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]] |
 | 2026-05-22 | Review Rashmi Rustagi's three websites before strategy session (DesignByPreetiMovie.com, RashmiRustagi.com, RashmisRecipes.com) | [[2026-05-22 - Rashmi Rustagi and Uddam Bhathal]] |

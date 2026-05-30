@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-05-29 | Proposed AI/automation audit under $2,000 for Lorenzo Tolbert (Goodnight Law); Lorenzo to book via Uddam's website | [[2026-05-29 - Lorenzo Tolbert and Uddam Bhathal]] |
+| 2026-05-26 | Committed to drafting 4 AI workflow options and scheduling a demo call for Rashmi Rustagi's film marketing | [[2026-05-26 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-05-25 | Agreed to attend Melaleuca 12-minute video presentation on May 30 before deciding on Vivienne Ste's referral partnership | [[2026-05-25 - Vivienne Ste and Uddam Bhathal]] |
 | 2026-05-22 | Offered Rashmi Rustagi a free 1–2 hour AI strategy session via Avanlora to map her marketing workflows | [[2026-05-22 - Rashmi Rustagi and Uddam Bhathal]] |
 | 2026-05-22 | Committed to researching AI solutions for HubSpot automation gaps before Tim Bojko follow-up | [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]] |
 | 2026-05-20 | Rescheduled Freda follow-up to Thursday May 21 at 10:00 AM EST | [[2026-05-20 - Freda Schell and Uddam Bhathal]] |
