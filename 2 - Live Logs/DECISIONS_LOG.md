@@ -17,6 +17,13 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-06-04 | Brandi Williford to schedule a free 1-hour process-mapping session to scope an AI agent for venue phone inquiries | [[2026-06-04 - Brandi Williford BNI 121 and Uddam Bhathal]] |
+| 2026-06-03 | Pivoted AI Sentiment Study outreach from single-channel (Alignable) to multi-channel (cold email + LinkedIn) to hit the June 13 deadline | [[2026-06-03 - AI Sentiment Study Status Update]] |
+| 2026-06-03 | Agreed to build Rashmi Rustagi a custom marketing package (~$597–$697 setup / $297 per month) with NDA | [[2026-06-03 - Rashmi Rustagi and Uddam Bhathal]] |
+| 2026-06-03 | Adopted the 3-part story framework (problem → solution → benefit); declined Brian K McNeill's $997 sales bootcamp offer | [[2026-06-03 - Uddam Bhathal and Brian K McNeill the Sales Confidence Coach]] |
+| 2026-06-02 | Accepted a spot in SV Academy's SDR program; training begins Monday, June 8 | [[2026-06-02 - Uddam Bhathal and Rob McFeeley]] |
+| 2026-06-01 | Standardized internal app development on Remy (MindStudio); centralized AI Sentiment Study outreach through the NAI Sentiment Study email account | [[2026-06-01 - Impromptu Google Meet Meeting]] |
+| 2026-05-31 | Enrolled as a Melaleuca Category 2 customer/business partner via the $1 promo membership + $20 gift card | [[2026-05-31 - Vivienne Stephen-Melaleuca Marketing Exec.'s Zoom Meeting]] |
 | 2026-05-29 | Proposed AI/automation audit under $2,000 for Lorenzo Tolbert (Goodnight Law); Lorenzo to book via Uddam's website | [[2026-05-29 - Lorenzo Tolbert and Uddam Bhathal]] |
 | 2026-05-26 | Committed to drafting 4 AI workflow options and scheduling a demo call for Rashmi Rustagi's film marketing | [[2026-05-26 - Rashmi Rustagi and Uddam Bhathal]] |
 | 2026-05-25 | Agreed to attend Melaleuca 12-minute video presentation on May 30 before deciding on Vivienne Ste's referral partnership | [[2026-05-25 - Vivienne Ste and Uddam Bhathal]] |
