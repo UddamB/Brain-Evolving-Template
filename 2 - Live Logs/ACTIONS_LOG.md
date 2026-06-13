@@ -6,6 +6,17 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-06-13 | Reschedule the follow-up meeting with Nathan Jones due to technical issues that interrupted the call | [[2026-06-13 - Nathan Jones and Uddam Bhathal]] |
+| 2026-06-12 | Attend the Tuesday, June 16 @ 7 PM Zoom demo with Khush Panthaky's top partner to understand his business model | [[2026-06-12 - Khush Panthaky and Uddam Bhathal]] |
+| 2026-06-12 | Attend the Saturday, June 20 in-person event in Markham with Khush Panthaky | [[2026-06-12 - Khush Panthaky and Uddam Bhathal]] |
+| 2026-06-12 | Evaluate Khush Panthaky's cost-reduction service for personal use and potential client referrals | [[2026-06-12 - Khush Panthaky and Uddam Bhathal]] |
+| 2026-06-11 | Send Bryan Hankins a project invite when new IT work becomes available | [[2026-06-11 - Uddam Bhathal and BRYAN HANKINS]] |
+| 2026-06-11 | Share relevant healthcare IT networking events with Bryan Hankins | [[2026-06-11 - Uddam Bhathal and BRYAN HANKINS]] |
+| 2026-06-08 | Send Colin Comissiong the "AI Autopilot" proposal deck, custom pricing calculator, and an Avenlura referral synopsis | [[2026-06-08 - Colin Comissiong and Uddam Bhathal]] |
+| 2026-06-08 | Develop and upload the Mining AI go-to-market program (one-pager + proposal) using the "Still Prompt" framework by June 19 | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
+| 2026-06-08 | Continue LinkedIn outreach to exhaust the existing 75-person AI Sentiment Study contact list | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
+| 2026-06-08 | Send Freda Schellingerhoudt the presentation slides and text her the Etobicoke pickup address for the June 20 Markham event | [[2026-06-08 - FREDA SCHELLINGERHOUDT and Uddam Bhathal]] |
+| 2026-06-08 | Revisit Freda Schellingerhoudt's automation proposal in mid-to-late July | [[2026-06-08 - FREDA SCHELLINGERHOUDT and Uddam Bhathal]] |
 | 2026-06-05 | Apply the "co-pilot" mindset (surface hidden risks/costs) when advising clients | [[2026-06-05 - Chad Keller and Uddam Bhathal]] |
 | 2026-06-05 | Explore Alignable's educational events for higher-quality networking | [[2026-06-05 - Chad Keller and Uddam Bhathal]] |
 | 2026-06-04 | Send Brandi Williford a follow-up email confirming the 1-hour process-mapping session | [[2026-06-04 - Brandi Williford BNI 121 and Uddam Bhathal]] |

@@ -5,3 +5,4 @@ Founder of Fathom Leadership (thehigher.net); executive coach using a proprietar
 ## References
 
 - [[2026-05-22 - Virtual Coffee - Tim Bojko and Uddam Bhathal]]
+- [[2026-06-10 - Virtual Coffee - 30 minutes - Uddam Bhathal and Tim Bojko]]

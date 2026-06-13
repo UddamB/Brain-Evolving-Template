@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-06-08 | Canceled the AI Sentiment Study (insufficient interview volume, reputational risk); pivoted to OCI-funded "AI go-to-market" advisory programs for Advanced Manufacturing, Mining, and Agri-Food | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
+| 2026-06-08 | Adopted the "Still Prompt" framework (Situation, Task, Identity, Learning) as the standard methodology for researching each new vertical, grounded by the construction program template | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
+| 2026-06-08 | Paused Freda Schellingerhoudt's automation proposal over a cash-flow blocker ($297 fee, $498 overdraft on $500 limit); revisit mid-to-late July, carpool to June 20 Markham event in the meantime | [[2026-06-08 - FREDA SCHELLINGERHOUDT and Uddam Bhathal]] |
 | 2026-06-04 | Brandi Williford to schedule a free 1-hour process-mapping session to scope an AI agent for venue phone inquiries | [[2026-06-04 - Brandi Williford BNI 121 and Uddam Bhathal]] |
 | 2026-06-03 | Pivoted AI Sentiment Study outreach from single-channel (Alignable) to multi-channel (cold email + LinkedIn) to hit the June 13 deadline | [[2026-06-03 - AI Sentiment Study Status Update]] |
 | 2026-06-03 | Agreed to build Rashmi Rustagi a custom marketing package (~$597–$697 setup / $297 per month) with NDA | [[2026-06-03 - Rashmi Rustagi and Uddam Bhathal]] |
