@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-06-19 | Abandoned Alignable survey-based lead gen for AI-driven email campaigns (Apollo API sourcing + Instantly) plus a free "FindMeAI" AI-visibility audit tool | [[2026-06-19 - AI sentiment study last call]] |
+| 2026-06-19 | Finalized the "3 Big Wins" copy for the Mining ("Bedrock AI") and Agri-Food programs using a Problem → Solution → Benefit structure | [[2026-06-19 - AI sentiment study last call]] |
+| 2026-06-15 | Adopted "3 white-collar benefits + industry-specific name + unified-solution framing + social proof" as the standard structure for all four OCI program brochures | [[2026-06-15 - AI Sentiment Study Weekly Update]] |
 | 2026-06-08 | Canceled the AI Sentiment Study (insufficient interview volume, reputational risk); pivoted to OCI-funded "AI go-to-market" advisory programs for Advanced Manufacturing, Mining, and Agri-Food | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
 | 2026-06-08 | Adopted the "Still Prompt" framework (Situation, Task, Identity, Learning) as the standard methodology for researching each new vertical, grounded by the construction program template | [[2026-06-08 - AI Sentiment Study Weekly Update]] |
 | 2026-06-08 | Paused Freda Schellingerhoudt's automation proposal over a cash-flow blocker ($297 fee, $498 overdraft on $500 limit); revisit mid-to-late July, carpool to June 20 Markham event in the meantime | [[2026-06-08 - FREDA SCHELLINGERHOUDT and Uddam Bhathal]] |
