@@ -6,6 +6,12 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-06-19 | Connect with Jason Hurlbut on LinkedIn to explore future full-time opportunities at Stillwater AI | [[2026-06-19 - AI sentiment study last call]] |
+| 2026-06-19 | Send Gregoria a snapshot of her current operations with proposed AI solutions for time-saving | [[2026-06-19 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
+| 2026-06-19 | Schedule a follow-up call next week with Gregoria to review the snapshot and demo AI tools | [[2026-06-19 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
+| 2026-06-15 | Revise the Mining program draft ("Bedrock AI") with 3 specific administrative benefits and a new program name | [[2026-06-15 - AI Sentiment Study Weekly Update]] |
+| 2026-06-15 | Attend the AI Sentiment Study follow-up meeting Tuesday, June 16 at 12:30 PM | [[2026-06-15 - AI Sentiment Study Weekly Update]] |
+| 2026-06-15 | Keep Bernadine Bowen's contact info on file for potential client referrals needing systems/CRM consulting | [[2026-06-15 - Bernadine Bowen and Uddam Bhathal]] |
 | 2026-06-13 | Reschedule the follow-up meeting with Nathan Jones due to technical issues that interrupted the call | [[2026-06-13 - Nathan Jones and Uddam Bhathal]] |
 | 2026-06-12 | Attend the Tuesday, June 16 @ 7 PM Zoom demo with Khush Panthaky's top partner to understand his business model | [[2026-06-12 - Khush Panthaky and Uddam Bhathal]] |
 | 2026-06-12 | Attend the Saturday, June 20 in-person event in Markham with Khush Panthaky | [[2026-06-12 - Khush Panthaky and Uddam Bhathal]] |
