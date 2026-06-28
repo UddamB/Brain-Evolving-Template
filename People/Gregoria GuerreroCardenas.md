@@ -6,3 +6,4 @@ Owns Life and Wealth Strategies (insurance agency) — Aflac/supplemental group 
 
 - [[2026-05-14 - Gregoria GuerreroCardenas and Uddam Bhathal]]
 - [[2026-06-19 - Gregoria GuerreroCardenas and Uddam Bhathal]]
+- [[2026-06-26 - Gregoria GuerreroCardenas and Uddam Bhathal]]
