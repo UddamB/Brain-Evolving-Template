@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-06-26 | Selected three AIOS modules for Life and Wealth Strategies — Appointment Reminders, CRM, and Aflac Renewal Manager — pending competitor evaluation and testimonial review | [[2026-06-26 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
+| 2026-06-24 | David Chase declined to advise Uddam directly, citing the US/Canada financial licensing mismatch | [[2026-06-24 - David M Chase and Uddam Bhathal]] |
+| 2026-06-22 | Sherri Danzig declined the AI automation pitch — her business is already automated and well-staffed | [[2026-06-22 - Uddam Bhathal and SHERRI DANZIG]] |
 | 2026-06-19 | Abandoned Alignable survey-based lead gen for AI-driven email campaigns (Apollo API sourcing + Instantly) plus a free "FindMeAI" AI-visibility audit tool | [[2026-06-19 - AI sentiment study last call]] |
 | 2026-06-19 | Finalized the "3 Big Wins" copy for the Mining ("Bedrock AI") and Agri-Food programs using a Problem → Solution → Benefit structure | [[2026-06-19 - AI sentiment study last call]] |
 | 2026-06-15 | Adopted "3 white-collar benefits + industry-specific name + unified-solution framing + social proof" as the standard structure for all four OCI program brochures | [[2026-06-15 - AI Sentiment Study Weekly Update]] |

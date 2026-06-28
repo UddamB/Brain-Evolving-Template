@@ -6,6 +6,15 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-06-27 | Send a synopsis of Avenlura's AI services to Joe Gershanek | [[2026-06-27 - Joe gershaneck and Uddam Bhathal]] |
+| 2026-06-27 | Investigate local Chambers of Commerce for membership opportunities | [[2026-06-27 - Joe gershaneck and Uddam Bhathal]] |
+| 2026-06-26 | Send client testimonials to Gregoria and Gustavo Cardenas to support the AIOS proposal | [[2026-06-26 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
+| 2026-06-25 | Read *Dig Your Well Before You're Thirsty* (Harvey McKay) and *The 12 Week Year* (Brian Moran) per Paul Clementi's recommendation | [[2026-06-25 - Uddam Bhathal and Paul Clementi]] |
+| 2026-06-25 | Plan leverage-based marketing initiatives at the local library (TED Talk presentation, bi-weekly networking event) | [[2026-06-25 - Uddam Bhathal and Paul Clementi]] |
+| 2026-06-25 | Consult an accountant about home office and mileage tax deductions | [[2026-06-25 - Uddam Bhathal and Paul Clementi]] |
+| 2026-06-25 | Connect with Paul Clementi every six months to share progress | [[2026-06-25 - Uddam Bhathal and Paul Clementi]] |
+| 2026-06-24 | Connect with David Chase on LinkedIn | [[2026-06-24 - David M Chase and Uddam Bhathal]] |
+| 2026-06-22 | Review Sherri Danzig's website (ChoosingVibrancy.com) for potential personal interest in her wellness services | [[2026-06-22 - Uddam Bhathal and SHERRI DANZIG]] |
 | 2026-06-19 | Connect with Jason Hurlbut on LinkedIn to explore future full-time opportunities at Stillwater AI | [[2026-06-19 - AI sentiment study last call]] |
 | 2026-06-19 | Send Gregoria a snapshot of her current operations with proposed AI solutions for time-saving | [[2026-06-19 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
 | 2026-06-19 | Schedule a follow-up call next week with Gregoria to review the snapshot and demo AI tools | [[2026-06-19 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
