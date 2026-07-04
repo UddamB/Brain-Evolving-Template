@@ -6,6 +6,10 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-07-02 | Prepare service breakdown and pricing for Anuvia (Google Ads, scheduling automation, equity-model driver app) | [[2026-07-02 - Jamilya and Uddam Bhathal]] |
+| 2026-07-01 | Attend Vini Vilela's webinar on July 2, 2026 at 7 PM to learn the referral program details | [[2026-07-01 - Vini Vilela and Uddam Bhathal]] |
+| 2026-06-29 | Send calendar invite to Laura Daley for the July 6, 12 PM AI consultation | [[2026-06-29 - Laura Daley and Uddam Bhathal]] |
+| 2026-06-29 | Prepare a tailored AI service presentation for Primerica's business model for the July 6 consultation | [[2026-06-29 - Laura Daley and Uddam Bhathal]] |
 | 2026-06-27 | Send a synopsis of Avenlura's AI services to Joe Gershanek | [[2026-06-27 - Joe gershaneck and Uddam Bhathal]] |
 | 2026-06-27 | Investigate local Chambers of Commerce for membership opportunities | [[2026-06-27 - Joe gershaneck and Uddam Bhathal]] |
 | 2026-06-26 | Send client testimonials to Gregoria and Gustavo Cardenas to support the AIOS proposal | [[2026-06-26 - Gregoria GuerreroCardenas and Uddam Bhathal]] |

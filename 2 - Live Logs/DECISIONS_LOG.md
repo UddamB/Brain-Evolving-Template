@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-07-02 | Agreed to explore a tech partnership with Anuvia — proposed startup equity model for future driver app to defer costs for the pre-revenue startup | [[2026-07-02 - Jamilya and Uddam Bhathal]] |
+| 2026-07-01 | Identified mutual referral opportunity: Uddam's clinician clients → Vini for corporate wealth protection; Vini's entrepreneur network → Uddam for AI automation; Uddam to attend Vini's July 2 webinar first | [[2026-07-01 - Vini Vilela and Uddam Bhathal]] |
+| 2026-06-29 | Booked a free 30-min AI consultation with Laura Daley on July 6, 2026 at 12:00 PM; agreed to mutual client referrals | [[2026-06-29 - Laura Daley and Uddam Bhathal]] |
 | 2026-06-26 | Selected three AIOS modules for Life and Wealth Strategies — Appointment Reminders, CRM, and Aflac Renewal Manager — pending competitor evaluation and testimonial review | [[2026-06-26 - Gregoria GuerreroCardenas and Uddam Bhathal]] |
 | 2026-06-24 | David Chase declined to advise Uddam directly, citing the US/Canada financial licensing mismatch | [[2026-06-24 - David M Chase and Uddam Bhathal]] |
 | 2026-06-22 | Sherri Danzig declined the AI automation pitch — her business is already automated and well-staffed | [[2026-06-22 - Uddam Bhathal and SHERRI DANZIG]] |
