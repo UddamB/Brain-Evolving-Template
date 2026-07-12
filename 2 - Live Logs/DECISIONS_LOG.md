@@ -17,6 +17,10 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-07-11 | Agreed to mutual referral arrangement with Rachel Hindelang: she refers medical offices to Aventura; Uddam refers founders needing interactive demos to Pitch | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
+| 2026-07-08 | Scheduled follow-up meeting with Shaun Donovan (Bright Ideas) for Uddam to present a tailored marketing automation proposal | [[2026-07-08 - Virtual Coffee Shaun and Uddam]] |
+| 2026-07-07 | LinkedIn & Facebook content engine identified as top priority for Lorenzo Tolbert's law practice; Uddam to prepare a 4-solution slide deck | [[2026-07-07 - Lorenzo Tolbert and Uddam Bhathal]] |
+| 2026-07-06 | Shifted from sales pitch to peer exchange with Roger Persaud; agreed to connect him with educators and parents for "History That Unites" | [[2026-07-06 - Roger Persaud and Uddam Bhathal]] |
 | 2026-07-02 | Agreed to explore a tech partnership with Anuvia — proposed startup equity model for future driver app to defer costs for the pre-revenue startup | [[2026-07-02 - Jamilya and Uddam Bhathal]] |
 | 2026-07-01 | Identified mutual referral opportunity: Uddam's clinician clients → Vini for corporate wealth protection; Vini's entrepreneur network → Uddam for AI automation; Uddam to attend Vini's July 2 webinar first | [[2026-07-01 - Vini Vilela and Uddam Bhathal]] |
 | 2026-06-29 | Booked a free 30-min AI consultation with Laura Daley on July 6, 2026 at 12:00 PM; agreed to mutual client referrals | [[2026-06-29 - Laura Daley and Uddam Bhathal]] |
