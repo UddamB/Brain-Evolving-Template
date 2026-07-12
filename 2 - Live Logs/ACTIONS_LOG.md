@@ -6,6 +6,14 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-07-11 | Contact 3 medical office referral leads from Rachel Hindelang: Mission Dental (239-776-7626), Houck Dermatology (239-390-3376), Dr. Nicolai Internist (239-920-4503) | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
+| 2026-07-11 | Email Rachel Hindelang a list of founders who need interactive demos (Pitch referrals) | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
+| 2026-07-11 | Research free in-person networking groups in Toronto | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
+| 2026-07-08 | Attend follow-up meeting with Shaun Donovan (Bright Ideas) to present a tailored marketing automation solution | [[2026-07-08 - Virtual Coffee Shaun and Uddam]] |
+| 2026-07-07 | Draft slide deck with 4 custom AI solutions for Lorenzo Tolbert's law practice (onboarding engine, probate comms, content engine, BNI nurture) | [[2026-07-07 - Lorenzo Tolbert and Uddam Bhathal]] |
+| 2026-07-07 | Send calendar link to schedule follow-up meeting with Lorenzo Tolbert to review the AI slide deck | [[2026-07-07 - Lorenzo Tolbert and Uddam Bhathal]] |
+| 2026-07-06 | Explore Marketer.ai and Mind Trainer Pro per Roger Persaud's recommendation | [[2026-07-06 - Roger Persaud and Uddam Bhathal]] |
+| 2026-07-06 | Connect Roger Persaud with parents, grandparents, and educators for his "History That Unites" kids' program | [[2026-07-06 - Roger Persaud and Uddam Bhathal]] |
 | 2026-07-02 | Prepare service breakdown and pricing for Anuvia (Google Ads, scheduling automation, equity-model driver app) | [[2026-07-02 - Jamilya and Uddam Bhathal]] |
 | 2026-07-01 | Attend Vini Vilela's webinar on July 2, 2026 at 7 PM to learn the referral program details | [[2026-07-01 - Vini Vilela and Uddam Bhathal]] |
 | 2026-06-29 | Send calendar invite to Laura Daley for the July 6, 12 PM AI consultation | [[2026-06-29 - Laura Daley and Uddam Bhathal]] |
