@@ -6,6 +6,11 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-07-16 | Email Barry Hess to schedule a follow-up meeting | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
+| 2026-07-16 | Prepare specific AI-driven workflow automation solutions for Barry Hess targeting prospecting and CRM management | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
+| 2026-07-15 | Identify the employee benefits contact at Service Titan and send an email introduction to Sheryl Scott | [[2026-07-15 - Sheryl Scott and Uddam Bhathal]] |
+| 2026-07-15 | Send Shaun Donovan the ROI calculator | [[2026-07-15 - Discovery Call - Bright Ideas Consulting]] |
+| 2026-07-15 | Reconnect with Shaun Donovan in ~mid-September 2026 once he has validated his fractional consulting model | [[2026-07-15 - Discovery Call - Bright Ideas Consulting]] |
 | 2026-07-11 | Contact 3 medical office referral leads from Rachel Hindelang: Mission Dental (239-776-7626), Houck Dermatology (239-390-3376), Dr. Nicolai Internist (239-920-4503) | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
 | 2026-07-11 | Email Rachel Hindelang a list of founders who need interactive demos (Pitch referrals) | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
 | 2026-07-11 | Research free in-person networking groups in Toronto | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
