@@ -17,6 +17,9 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-07-16 | Agreed to schedule a follow-up meeting with Barry Hess to present AI automation solutions for Quantum Surge's prospecting and CRM bottleneck | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
+| 2026-07-15 | Agreed mutual referral with Sheryl Scott: she refers industrial dock/door company to Uddam; Uddam refers Service Titan benefits contact to Sheryl for LegalShield group plan | [[2026-07-15 - Sheryl Scott and Uddam Bhathal]] |
+| 2026-07-15 | Agreed to pause and reconnect in two months with Shaun Donovan (Bright Ideas); Shaun to prove fractional model first before investing in AI automation | [[2026-07-15 - Discovery Call - Bright Ideas Consulting]] |
 | 2026-07-11 | Agreed to mutual referral arrangement with Rachel Hindelang: she refers medical offices to Aventura; Uddam refers founders needing interactive demos to Pitch | [[2026-07-11 - Rachel Hindelang and Uddam Bhathal]] |
 | 2026-07-08 | Scheduled follow-up meeting with Shaun Donovan (Bright Ideas) for Uddam to present a tailored marketing automation proposal | [[2026-07-08 - Virtual Coffee Shaun and Uddam]] |
 | 2026-07-07 | LinkedIn & Facebook content engine identified as top priority for Lorenzo Tolbert's law practice; Uddam to prepare a 4-solution slide deck | [[2026-07-07 - Lorenzo Tolbert and Uddam Bhathal]] |
