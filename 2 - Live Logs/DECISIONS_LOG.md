@@ -17,6 +17,10 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-07-24 | Agreed to explore referral exchange and AI retargeting partnership with Bill Dietz (West Coast Media) | [[2026-07-24 - Bill Dietz and Uddam Bhathal]] |
+| 2026-07-23 | Agreed to mutual referral arrangement with Mary Crawford — she refers overwhelmed/systems-focused clients to Uddam; Uddam refers energy-block clients to Mary | [[2026-07-23 - Virtual Coffee with Mary (The Joy of Being Well)]] |
+| 2026-07-20 | Registered as partner under Kevin Coutu to recruit TikTok influencers for his nutraceutical (10% override on 30% influencer commissions) | [[2026-07-20 - Kevin Coutu and Uddam Bhathal]] |
+| 2026-07-20 | No immediate engagement with Claudia (Zestlife); TikTok influencer proposal declined due to budget constraints; follow up later | [[2026-07-20 - Claudia and Uddam Bhathal]] |
 | 2026-07-16 | Agreed to schedule a follow-up meeting with Barry Hess to present AI automation solutions for Quantum Surge's prospecting and CRM bottleneck | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
 | 2026-07-15 | Agreed mutual referral with Sheryl Scott: she refers industrial dock/door company to Uddam; Uddam refers Service Titan benefits contact to Sheryl for LegalShield group plan | [[2026-07-15 - Sheryl Scott and Uddam Bhathal]] |
 | 2026-07-15 | Agreed to pause and reconnect in two months with Shaun Donovan (Bright Ideas); Shaun to prove fractional model first before investing in AI automation | [[2026-07-15 - Discovery Call - Bright Ideas Consulting]] |

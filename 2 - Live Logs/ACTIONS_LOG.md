@@ -6,6 +6,11 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-07-24 | Send Avenlura agency info to Bill Dietz (West Coast Media) | [[2026-07-24 - Bill Dietz and Uddam Bhathal]] |
+| 2026-07-23 | Research Human Design "Projector" type to refine Avenlura client targeting | [[2026-07-23 - Virtual Coffee with Mary (The Joy of Being Well)]] |
+| 2026-07-20 | Connect with health/wellness TikTok influencers to gauge interest in Kevin Coutu's nutraceutical commission partnership | [[2026-07-20 - Kevin Coutu and Uddam Bhathal]] |
+| 2026-07-20 | Report back to Kevin Coutu with influencer feedback and potential matches | [[2026-07-20 - Kevin Coutu and Uddam Bhathal]] |
+| 2026-07-20 | Follow up with Claudia (Zestlife) if current Meta ad campaigns are not meeting client acquisition goals | [[2026-07-20 - Claudia and Uddam Bhathal]] |
 | 2026-07-16 | Email Barry Hess to schedule a follow-up meeting | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
 | 2026-07-16 | Prepare specific AI-driven workflow automation solutions for Barry Hess targeting prospecting and CRM management | [[2026-07-16 - Barry Hess and Uddam Bhathal]] |
 | 2026-07-15 | Identify the employee benefits contact at Service Titan and send an email introduction to Sheryl Scott | [[2026-07-15 - Sheryl Scott and Uddam Bhathal]] |
