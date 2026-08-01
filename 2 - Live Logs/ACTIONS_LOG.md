@@ -6,6 +6,11 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-07-31 | Research Genetic Lifespan on social media (Instagram, TikTok, Facebook, YouTube) | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
+| 2026-07-30 | Review the Aliabo website link provided by Barry Bevier (Mindful Longevity) | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
+| 2026-07-28 | Review meeting notes to identify specific AI automation opportunities for Jennell Cook | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-28 | Propose AI agent solutions and UGC creator strategies for Jennell Cook's wellness business | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-27 | Explore how to support Jeffrey Recht's org growth — specifically the CRM/database challenge | [[2026-07-27 - Jeffrey Recht and Uddam Bhathal]] |
 | 2026-07-24 | Send Avenlura agency info to Bill Dietz (West Coast Media) | [[2026-07-24 - Bill Dietz and Uddam Bhathal]] |
 | 2026-07-23 | Research Human Design "Projector" type to refine Avenlura client targeting | [[2026-07-23 - Virtual Coffee with Mary (The Joy of Being Well)]] |
 | 2026-07-20 | Connect with health/wellness TikTok influencers to gauge interest in Kevin Coutu's nutraceutical commission partnership | [[2026-07-20 - Kevin Coutu and Uddam Bhathal]] |
