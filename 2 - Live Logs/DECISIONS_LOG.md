@@ -17,6 +17,10 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-07-31 | No commitment to Natalie Smith's Genetic Lifespan pitch; Uddam to research company before deciding | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
+| 2026-07-30 | No immediate paid engagement with Barry Bevier (Mindful Longevity); Barry to evaluate Pitch CRM first | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
+| 2026-07-28 | No immediate engagement with Jennell Cook; Uddam to follow up with specific AI automation proposals | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-27 | No immediate engagement with Jeffrey Recht; Uddam to explore infrastructure support options for his 501(c)(3) | [[2026-07-27 - Jeffrey Recht and Uddam Bhathal]] |
 | 2026-07-24 | Agreed to explore referral exchange and AI retargeting partnership with Bill Dietz (West Coast Media) | [[2026-07-24 - Bill Dietz and Uddam Bhathal]] |
 | 2026-07-23 | Agreed to mutual referral arrangement with Mary Crawford — she refers overwhelmed/systems-focused clients to Uddam; Uddam refers energy-block clients to Mary | [[2026-07-23 - Virtual Coffee with Mary (The Joy of Being Well)]] |
 | 2026-07-20 | Registered as partner under Kevin Coutu to recruit TikTok influencers for his nutraceutical (10% override on 30% influencer commissions) | [[2026-07-20 - Kevin Coutu and Uddam Bhathal]] |
