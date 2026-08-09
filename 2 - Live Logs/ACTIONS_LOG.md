@@ -6,6 +6,16 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-08-05 | Attend Karen Banko's product demo (she will schedule via Uddam's Calendly) | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
+| 2026-08-05 | Exchange referrals with Karen Banko when opportunities arise | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
+| 2026-08-03 | Create a case study with specific ROI data from a successful dental clinic voice agent client | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
+| 2026-08-03 | Develop a "copy-paste" referral script for warm contacts to easily forward to potential clients | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
+| 2026-08-03 | Evaluate using a PayPal Credit line to fund sales training | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
+| 2026-07-31 | Research Genetic Lifespan on social media (Instagram, TikTok, Facebook, YouTube) | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
+| 2026-07-30 | Review the Aliabo website link provided by Barry Bevier (Mindful Longevity) | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
+| 2026-07-28 | Review meeting notes to identify specific AI automation opportunities for Jennell Cook | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-28 | Propose AI agent solutions and UGC creator strategies for Jennell Cook's wellness business | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-27 | Explore how to support Jeffrey Recht's org growth — specifically the CRM/database challenge | [[2026-07-27 - Jeffrey Recht and Uddam Bhathal]] |
 | 2026-07-31 | Research Genetic Lifespan on social media (Instagram, TikTok, Facebook, YouTube) | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
 | 2026-07-30 | Review the Aliabo website link provided by Barry Bevier (Mindful Longevity) | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
 | 2026-07-28 | Review meeting notes to identify specific AI automation opportunities for Jennell Cook | [[2026-07-28 - Jennell and Uddam Bhathal]] |

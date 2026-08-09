@@ -17,6 +17,12 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-08-05 | Declined TikTok creator service and distributor partnerships with Karen Banko; agreed only to a product demo and potential referral relationship | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
+| 2026-08-03 | Did not commit to Vladimir Gutenmakher's AI coaching offer; took away tactical advice on warm referrals, case study, and sales training | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
+| 2026-07-31 | No commitment to Natalie Smith's Genetic Lifespan pitch; Uddam to research company before deciding | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
+| 2026-07-30 | No immediate paid engagement with Barry Bevier (Mindful Longevity); Barry to evaluate Pitch CRM first | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
+| 2026-07-28 | No immediate engagement with Jennell Cook; Uddam to follow up with specific AI automation proposals | [[2026-07-28 - Jennell and Uddam Bhathal]] |
+| 2026-07-27 | No immediate engagement with Jeffrey Recht; Uddam to explore infrastructure support options for his 501(c)(3) | [[2026-07-27 - Jeffrey Recht and Uddam Bhathal]] |
 | 2026-07-31 | No commitment to Natalie Smith's Genetic Lifespan pitch; Uddam to research company before deciding | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
 | 2026-07-30 | No immediate paid engagement with Barry Bevier (Mindful Longevity); Barry to evaluate Pitch CRM first | [[2026-07-30 - Uddam Bhathal and Barry Bevier]] |
 | 2026-07-28 | No immediate engagement with Jennell Cook; Uddam to follow up with specific AI automation proposals | [[2026-07-28 - Jennell and Uddam Bhathal]] |
