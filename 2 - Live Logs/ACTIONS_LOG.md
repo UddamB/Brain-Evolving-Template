@@ -6,6 +6,9 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-08-13 | Email Myke Wilder product info and schedule practice sales call to improve close rate from 1-in-6 to 2-in-6 | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
+| 2026-08-13 | Refer Myke Wilder to business podcast hosts in Uddam's network (his best lead channel) | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
+| 2026-08-13 | Research virtual reality immersive shows in Toronto (Google "Virtual Reality Shows Toronto") | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
 | 2026-08-05 | Attend Karen Banko's product demo (she will schedule via Uddam's Calendly) | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
 | 2026-08-05 | Exchange referrals with Karen Banko when opportunities arise | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
 | 2026-08-03 | Create a case study with specific ROI data from a successful dental clinic voice agent client | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |

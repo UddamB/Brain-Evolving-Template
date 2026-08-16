@@ -17,6 +17,7 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-08-13 | Agreed Myke Wilder and Uddam are non-competitive complements in the medical clinic market (Myke: support staff comms; Uddam: ops tech) — will pursue client-sharing and referrals | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
 | 2026-08-05 | Declined TikTok creator service and distributor partnerships with Karen Banko; agreed only to a product demo and potential referral relationship | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
 | 2026-08-03 | Did not commit to Vladimir Gutenmakher's AI coaching offer; took away tactical advice on warm referrals, case study, and sales training | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
 | 2026-07-31 | No commitment to Natalie Smith's Genetic Lifespan pitch; Uddam to research company before deciding | [[2026-07-31 - Natalie Smith and Uddam Bhathal]] |
