@@ -6,6 +6,10 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-08-21 | Research Wealthbox CRM to assess its fit for Kristina Smith's practice | [[2026-08-21 - Kristina Smith and Uddam Bhathal]] |
+| 2026-08-19 | Send proposal with case studies and metrics to Jeffrey Howard (yourmarketinglegacy@gmail.com) | [[2026-08-19 - Jeffrey Howard WDNA Wicked Smart Web Consultation]] |
+| 2026-08-19 | Schedule follow-up with Viraaj Karthik Friday at 1:30 PM to continue discovery discussion | [[2026-08-19 - Uddam and Viraaj Discovery]] |
+| 2026-08-17 | Email cost breakdown for AI automation services to Sandra Anchor | [[2026-08-17 - Sandra Anchor and Uddam Bhathal]] |
 | 2026-08-13 | Email Myke Wilder product info and schedule practice sales call to improve close rate from 1-in-6 to 2-in-6 | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
 | 2026-08-13 | Refer Myke Wilder to business podcast hosts in Uddam's network (his best lead channel) | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
 | 2026-08-13 | Research virtual reality immersive shows in Toronto (Google "Virtual Reality Shows Toronto") | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |

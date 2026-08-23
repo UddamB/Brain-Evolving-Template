@@ -17,6 +17,11 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-08-21 | Kristina Smith will maximize current tools (Reminder Media, Sprinkler) before committing to AI automation; Uddam to research Wealthbox | [[2026-08-21 - Kristina Smith and Uddam Bhathal]] |
+| 2026-08-20 | No commitment from Dex (Reez Keene); Dex to elaborate on "inside-out" partnership strategy for client acquisition | [[2026-08-20 - Reez Keene and Uddam Bhathal]] |
+| 2026-08-19 | Uddam to send proposal with case studies; Jeffrey Howard to review before committing to Meta ads partnership | [[2026-08-19 - Jeffrey Howard WDNA Wicked Smart Web Consultation]] |
+| 2026-08-19 | Viraaj recommends pivoting to high-volume cold outreach (5k prospects/mo) with a results-driven offer; follow-up Friday | [[2026-08-19 - Uddam and Viraaj Discovery]] |
+| 2026-08-17 | No immediate commitment from Sandra Anchor; Uddam to email cost breakdown before a follow-up call is scheduled | [[2026-08-17 - Sandra Anchor and Uddam Bhathal]] |
 | 2026-08-13 | Agreed Myke Wilder and Uddam are non-competitive complements in the medical clinic market (Myke: support staff comms; Uddam: ops tech) — will pursue client-sharing and referrals | [[2026-08-13 - Uddam Bhathal and Myke Wilder]] |
 | 2026-08-05 | Declined TikTok creator service and distributor partnerships with Karen Banko; agreed only to a product demo and potential referral relationship | [[2026-08-05 - Karen Banko and Uddam Bhathal]] |
 | 2026-08-03 | Did not commit to Vladimir Gutenmakher's AI coaching offer; took away tactical advice on warm referrals, case study, and sales training | [[2026-08-03 - 30 Minute Meeting with SetUpShopOnline]] |
