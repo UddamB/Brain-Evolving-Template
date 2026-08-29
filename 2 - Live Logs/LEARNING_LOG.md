@@ -16,6 +16,7 @@
 
 | Date | Person / Topic | Learning | Source |
 |---|---|---|---|
+| 2026-08-24 | Chris Villa / Carolina Digital Phone / VoIP Sales | CDP is a 26-yr-old privately-held VoIP provider (vs RingCentral, 8x8); 100% commission reps can't buy tools without COO approval — route AI automation pitches to management; post-9/11 shift: even known vendors now require appointments; manual cold email (12/day, 5-day sequence) is a common bottleneck for solo field reps | [[2026-08-24 - Chris Villa and Uddam Bhathal]] |
 | 2026-08-21 | Kristina Smith / Bankers Life | Solo advisors overwhelmed by admin; BNY Mellon platform accepts $10k minimum clients — rare access point unavailable directly; Wealthbox is an AI-integrated CRM for financial advisors; Reminder Media = physical magazine + email newsletter service for advisors | [[2026-08-21 - Kristina Smith and Uddam Bhathal]] |
 | 2026-08-20 | Reez Keene / Earned Equity Investing | Avonboa out-competed by rivals spending $10k/week on ads; earned equity investor fixes books/revenue/systems to close valuation gaps before M&A; inside-out partnership strategy can acquire clients at lower cost than paid search | [[2026-08-20 - Reez Keene and Uddam Bhathal]] |
 | 2026-08-19 | Jeffrey Howard / Wicked Smart Web | $25k MRR goal via referrals + new lead-gen; AI voice receptionist recovered $63k in 6 weeks for one SMB client; skepticism of paid ads is common — specific ROI case studies (not general claims) are required to overcome it | [[2026-08-19 - Jeffrey Howard WDNA Wicked Smart Web Consultation]] |

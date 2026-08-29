@@ -17,6 +17,7 @@
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-08-24 | Advanced to COO introduction step with Carolina Digital Phone rather than selling directly to Chris Villa (100% commission, not a decision maker) | [[2026-08-24 - Chris Villa and Uddam Bhathal]] |
 | 2026-08-21 | Kristina Smith will maximize current tools (Reminder Media, Sprinkler) before committing to AI automation; Uddam to research Wealthbox | [[2026-08-21 - Kristina Smith and Uddam Bhathal]] |
 | 2026-08-20 | No commitment from Dex (Reez Keene); Dex to elaborate on "inside-out" partnership strategy for client acquisition | [[2026-08-20 - Reez Keene and Uddam Bhathal]] |
 | 2026-08-19 | Uddam to send proposal with case studies; Jeffrey Howard to review before committing to Meta ads partnership | [[2026-08-19 - Jeffrey Howard WDNA Wicked Smart Web Consultation]] |

@@ -6,6 +6,7 @@
 
 | Date | Action | Source |
 |---|---|---|
+| 2026-08-24 | Send one-pager on Avalor's email automation service to Chris Villa (chris.villa@carolinadigitalphone.com) | [[2026-08-24 - Chris Villa and Uddam Bhathal]] |
 | 2026-08-21 | Research Wealthbox CRM to assess its fit for Kristina Smith's practice | [[2026-08-21 - Kristina Smith and Uddam Bhathal]] |
 | 2026-08-19 | Send proposal with case studies and metrics to Jeffrey Howard (yourmarketinglegacy@gmail.com) | [[2026-08-19 - Jeffrey Howard WDNA Wicked Smart Web Consultation]] |
 | 2026-08-19 | Schedule follow-up with Viraaj Karthik Friday at 1:30 PM to continue discovery discussion | [[2026-08-19 - Uddam and Viraaj Discovery]] |
