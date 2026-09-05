@@ -75,3 +75,6 @@
 | 2026-05-18 | Signed up for GrantStream.ai referral program at 20–30% commission | [[2026-05-18 - Uddam Bhathal and Richard Giraldez]] |
 | 2026-05-16 | Agreed to send Devin Crane a fixed-price Facebook automation proposal (budget cap $200/mo) | [[2026-05-16 - Devin Crane and Uddam Bhathal]] |
 | 2026-05-15 | Pitched $500 core AI automation package to Veronica Munoz; she will evaluate budget fit | [[2026-05-15 - Veronica Munoz and Uddam Bhathal]] |
+| 2026-09-04 | No partnership with Victoria Ferrer at this time; will revisit when she has startup capital for standard engagement | [[2026-09-04 - Victoria Ferrer and Uddam Bhathal]] |
+| 2026-09-03 | Accepted remote sales role at Bortulus; committing full-time and discontinuing Avynlaura personal agency; start date September 7 | [[2026-09-03 - Bortulus Sales Interview]] |
+| 2026-09-01 | Adopting rapport-first sales approach — build genuine connection before pitching; acknowledged personal energy is strongest in casual conversation | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
