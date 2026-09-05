@@ -114,3 +114,8 @@
 | 2026-05-13 | Follow up with Jacqueline Cohen-Baity about AI automation for her ebook marketing | [[2026-05-13 - Jacqueline Cohen-Baity and Uddam Bhathal]] |
 | 2026-05-12 | Follow up with Colin Comissiong about AI services proposal | [[2026-05-12 - Colin Comissiong and Uddam Bhathal]] |
 | 2026-05-12 | Complete interview preparation tasks from AI Sentiment Study session with Jason Hurlbut | [[2026-05-12 - Interview Preparation Session - AI Sentiment Study]] |
+| 2026-09-04 | Email Avonlora website link + lead-gen pricing/process to Victoria Ferrer | [[2026-09-04 - Victoria Ferrer and Uddam Bhathal]] |
+| 2026-09-03 | Review Bortulus onboarding materials (commission, SOPs, CRM training) and confirm readiness to sign contractor agreement | [[2026-09-03 - Bortulus Sales Interview]] |
+| 2026-09-03 | Complete W-8BEN form for Canadian contractor compliance with Bortulus | [[2026-09-03 - Bortulus Sales Interview]] |
+| 2026-09-01 | Connect with Jennifer Clark on Alignable | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
+| 2026-09-01 | Implement rapport-first sales approach — build genuine connection before pitching | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
