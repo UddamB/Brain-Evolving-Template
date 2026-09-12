@@ -119,3 +119,12 @@
 | 2026-09-03 | Complete W-8BEN form for Canadian contractor compliance with Bortulus | [[2026-09-03 - Bortulus Sales Interview]] |
 | 2026-09-01 | Connect with Jennifer Clark on Alignable | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
 | 2026-09-01 | Implement rapport-first sales approach — build genuine connection before pitching | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
+| 2026-09-12 | Prepare a demo of the email system's workflow for Hazel (Kajal Handoo) | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
+| 2026-09-12 | Confirm service cost and its relationship to Hazel's Alignable subscription | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
+| 2026-09-11 | Review Linktree content (linktr.ee/ahwco) before Sept 25 Zenzino presentation | [[2026-09-11 - Marcelle Institute 4 Health]] |
+| 2026-09-10 | Send Charlie Riske a calendar invite for cold email demo (next Thursday) | [[2026-09-10 - Charlie Riske and Uddam Bhathal]] |
+| 2026-09-09 | Sign and return the updated Ortuas/Bortulus contract | [[2026-09-09 - Meeting w Uddam (Leland Gonzales - Ortuas)]] |
+| 2026-09-09 | Complete and return the W-8BEN form for Ortuas/Bortulus payment processing | [[2026-09-09 - Meeting w Uddam (Leland Gonzales - Ortuas)]] |
+| 2026-09-09 | Begin cold-calling leads in the GHL pipelines | [[2026-09-09 - Meeting w Uddam (Leland Gonzales - Ortuas)]] |
+| 2026-09-08 | Share the ROI calculator link with Kristina Smith | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |
+| 2026-09-08 | Follow up with Kristina Smith in late 2026 or early 2027 (after Medicare open enrollment) | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |

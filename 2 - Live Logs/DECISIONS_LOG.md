@@ -78,3 +78,10 @@
 | 2026-09-04 | No partnership with Victoria Ferrer at this time; will revisit when she has startup capital for standard engagement | [[2026-09-04 - Victoria Ferrer and Uddam Bhathal]] |
 | 2026-09-03 | Accepted remote sales role at Bortulus; committing full-time and discontinuing Avynlaura personal agency; start date September 7 | [[2026-09-03 - Bortulus Sales Interview]] |
 | 2026-09-01 | Adopting rapport-first sales approach — build genuine connection before pitching; acknowledged personal energy is strongest in casual conversation | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
+| 2026-09-12 | Follow-up with Hazel (Kajal Handoo) next Saturday at 3 PM to review demo and pricing | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
+| 2026-09-11 | AI email service is not a fit for Chris Marcelle; Uddam to attend Zenzino presentation as client on Sept 25 at 1:30 PM | [[2026-09-11 - Marcelle Institute 4 Health]] |
+| 2026-09-10 | Cold email demo scheduled next Thursday for Charlie Riske (AIMention) | [[2026-09-10 - Charlie Riske and Uddam Bhathal]] |
+| 2026-09-09 | Ortuas (Bortulus) onboarding complete; Uddam to sign contract, complete W-8BEN, and begin cold-calling | [[2026-09-09 - Meeting w Uddam (Leland Gonzales - Ortuas)]] |
+| 2026-09-08 | Declined Kristina Smith pitch; revisit late 2026/early 2027 after Medicare open enrollment | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |
+| 2026-09-07 | 50/50 mechanic shop AI system partnership agreed with Susan Kennedy; setup $1,500–$2,000 + monthly subscription | [[2026-09-07 - Susan Kennedy and Uddam Bhathal]] |
+| 2026-09-07 | No engagement with Keith Engelhardt's AI marketing platform; he is self-sufficient on leads via Alignable | [[2026-09-07 - Keith Engelhardt (30 Minute Meeting)]] |
