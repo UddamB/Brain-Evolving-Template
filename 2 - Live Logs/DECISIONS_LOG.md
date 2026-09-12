@@ -78,3 +78,10 @@
 | 2026-09-04 | No partnership with Victoria Ferrer at this time; will revisit when she has startup capital for standard engagement | [[2026-09-04 - Victoria Ferrer and Uddam Bhathal]] |
 | 2026-09-03 | Accepted remote sales role at Bortulus; committing full-time and discontinuing Avynlaura personal agency; start date September 7 | [[2026-09-03 - Bortulus Sales Interview]] |
 | 2026-09-01 | Adopting rapport-first sales approach — build genuine connection before pitching; acknowledged personal energy is strongest in casual conversation | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
+| 2026-09-07 | 50/50 revenue partnership with Susan Kennedy on mechanic shop AI system; costs deducted pre-split; affiliate model: 30% seller / 35% each for core partners | [[2026-09-07 - Susan Kennedy and Uddam Bhathal]] |
+| 2026-09-08 | Kristina Smith declined email marketing system — follow up late 2026/early 2027 after Medicare open enrollment | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |
+| 2026-09-09 | Onboarded as salesperson for Ortuas (Leland Gonzales); GHL CRM access; 50 leads/time zone; discovery calls → Leland handles closes | [[2026-09-09 - Meeting w Uddam (Ortuas - Leland Gonzales)]] |
+| 2026-09-09 | Referral partnership with Kelly: she refers solopreneurs needing AI; Uddam receives kickback on conversions | [[2026-09-09 - Kelly Connection Call]] |
+| 2026-09-10 | Cold email demo with Charlie Riske (AIMention) scheduled for ~Sept 17 | [[2026-09-10 - Charlie Riske and Uddam Bhathal]] |
+| 2026-09-11 | Lead-gen collaboration declined by Chris Marcelle; pivoted — Uddam attending Zenzino presentation Sept 25 at 1:30 PM | [[2026-09-11 - Let's Collaborate with Marcelle Institute 4 Health]] |
+| 2026-09-12 | Kajal Handoo (Hazel) exploring cold email service for investor outreach; demo + pricing meeting scheduled ~Sept 19 | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |

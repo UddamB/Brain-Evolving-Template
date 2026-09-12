@@ -119,3 +119,16 @@
 | 2026-09-03 | Complete W-8BEN form for Canadian contractor compliance with Bortulus | [[2026-09-03 - Bortulus Sales Interview]] |
 | 2026-09-01 | Connect with Jennifer Clark on Alignable | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
 | 2026-09-01 | Implement rapport-first sales approach — build genuine connection before pitching | [[2026-09-01 - Jennifer Clark (ILN Agency)]] |
+| 2026-09-07 | Review system vision doc + partnership agreement from Susan Kennedy (SparkleDB) when received | [[2026-09-07 - Susan Kennedy and Uddam Bhathal]] |
+| 2026-09-08 | Share ROI calculator link with Kristina Smith | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |
+| 2026-09-08 | Follow up with Kristina Smith in late 2026 or early 2027 (after Medicare open enrollment) | [[2026-09-08 - Kristina Smith and Uddam Bhathal]] |
+| 2026-09-09 | Review Ortuas sales playbook (SOP) from Leland Gonzales | [[2026-09-09 - Meeting w Uddam (Ortuas - Leland Gonzales)]] |
+| 2026-09-09 | Complete and return W-8BEN form for payment processing (Ortuas/Leland) | [[2026-09-09 - Meeting w Uddam (Ortuas - Leland Gonzales)]] |
+| 2026-09-09 | Begin cold-calling GHL pipeline leads — start with West Coast time zone (Ortuas) | [[2026-09-09 - Meeting w Uddam (Ortuas - Leland Gonzales)]] |
+| 2026-09-09 | Book free 60-min sample coaching session with Kelly | [[2026-09-09 - Kelly Connection Call]] |
+| 2026-09-10 | Send calendar invite to Charlie Riske for cold email demo (~Thursday Sept 17) | [[2026-09-10 - Charlie Riske and Uddam Bhathal]] |
+| 2026-09-11 | Review Marcelle Institute Linktree (linktr.ee/ahwco) before Sept 25 meeting | [[2026-09-11 - Let's Collaborate with Marcelle Institute 4 Health]] |
+| 2026-09-11 | Attend Chris Marcelle's Zenzino test presentation — Friday Sept 25 at 1:30 PM | [[2026-09-11 - Let's Collaborate with Marcelle Institute 4 Health]] |
+| 2026-09-12 | Prepare demo of cold email system workflow for Kajal Handoo (Hazel) | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
+| 2026-09-12 | Confirm cold email service cost and relationship to Alignable subscription (for Hazel's context) | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
+| 2026-09-12 | Meet Kajal Handoo (Hazel) ~Saturday Sept 19 at 3 PM to review email system demo + pricing | [[2026-09-12 - Kajal Handoo and Uddam Bhathal]] |
